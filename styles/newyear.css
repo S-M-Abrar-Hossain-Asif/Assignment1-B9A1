@@ -1,0 +1,38 @@
+/*Common Shared Style*/
+body{
+    font-family: 'Merriweather', serif;
+}
+
+/* announcement related styles*/
+/*header related styles*/
+.banner{
+    background-image: url('../resources/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    border: 16px;
+    margin-top: 50px;
+    margin-left: 140px;
+    margin-right: 140px;
+
+}
+.wish{
+    color: #ff0000;
+    text-align: center;
+    width:300px;
+    height: 100;
+    font-size: 32px;
+    font-weight:800;
+    padding:300px 510px 0 510px;
+    
+
+}
+.topic{
+    color: #FFF;
+    text-align: center;
+    line-height: 95px;
+    font-size: 72px;
+    font-weight: 900;
+    width: 632px;
+    height: 350px;
+    padding:0 344px 0 344px;
+}
